@@ -2,5 +2,4 @@ voila
 voila-material
 bqplot
 pandas
-math
 numpy
